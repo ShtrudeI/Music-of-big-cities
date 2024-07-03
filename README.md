@@ -1,15 +1,19 @@
 # Music-of-big-cities
-Данные
-В наличии были следующие данные о прослушиваниях треков в сервисе Яндекс.Музыка:
+Data
 
-название трека;
-исполнитель;
-жанр;
-город;
-день прослушивания;
-время прослушивания;
-Задача
-Провести сравнение музыкальных предпочтений у пользователей Яндекс.Музыки, проживающих в Москве и Санкт-Петербурге. Сравнить прослушивания в понедельник, среду и пятницу по городам, а также сравнить жанры, которые слушают пользователи утром в понедельник и вечером в пятницу в Москве и Санкт-Петербурге.
+The following data on track plays in the Yandex.Music service were available:
 
-Используемые библиотеки
+Track title
+Artist
+Genre
+City
+Day of listening
+Time of listening
+Task
+
+
+Compare the musical preferences of Yandex.Music users living in Moscow and Saint Petersburg. Compare the listens on Monday, Wednesday, and Friday by city, and also compare the genres listened to by users on Monday morning and Friday evening in Moscow and Saint Petersburg.
+
+
+Libraries Used:
 pandas
