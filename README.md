@@ -3,8 +3,8 @@ Data
 
 The following data on track plays in the Yandex.Music service were available:
 
-Track title
-Artist
+Track title  
+Artist  
 Genre
 City
 Day of listening
